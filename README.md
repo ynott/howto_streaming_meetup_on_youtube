@@ -1,7 +1,7 @@
 # howto_streaming_meetup_on_youtube
 ミートアップをYoutubeを使ってストリーミング配信する方法
 
-日本語
+日本語  
 [ミートアップをYoutubeでストリーミング配信](./ja/README.md)
 
 
